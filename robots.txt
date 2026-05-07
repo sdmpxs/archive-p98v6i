@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdmpxs.github.io/archive-p98v6i/sitemap.xml
